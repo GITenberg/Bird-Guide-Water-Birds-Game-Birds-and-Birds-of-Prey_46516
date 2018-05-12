@@ -1,9 +1,8 @@
 _repo: Bird-Guide-Water-Birds-Game-Birds-and-Birds-of-Prey_46516
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46516/46516-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46516-h/images/cover.jpg
 creator:
   author:
     agent_name: Reed, Chester A. (Chester Albert)
@@ -14,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34298
 description: Part 1. Waterbirds, game birds and birds of prey east of the Rockies
   -- Pt. 2. Land birds east of the Rockies from parrots to bluebirds.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46516#Bird-Guide-Water-Birds-Game-Birds-and-Birds-of-Prey
 gutenberg_issued: '2014-08-06'
 gutenberg_type: Text
 identifiers:
